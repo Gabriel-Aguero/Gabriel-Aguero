@@ -1,4 +1,4 @@
-### Hola soy Gabriel Agüero 👋⭐️
+### Hi I'm Gabriel Agüero 👋⭐️
 
 ![GABRIEL AGUERO](https://user-images.githubusercontent.com/32781895/123563492-51ef5f00-d78b-11eb-9353-c44c0cfed6d8.gif)
 
