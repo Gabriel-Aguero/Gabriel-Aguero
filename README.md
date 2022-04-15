@@ -1,6 +1,6 @@
 ### Hola soy Gabriel Agüero 👋⭐️
 
-![GABRIEL AGUERO](https://user-images.githubusercontent.com/32781895/123563492-51ef5f00-d78b-11eb-9353-c44c0cfed6d8.gif)
+![GABRIEL AGUERO](https://user-images.githubusercontent.com/32781895/163527685-df8398db-af89-4247-ba95-173944e257fa.gif)
 
 ``` JavasCript
 const GabrielDBP = {
