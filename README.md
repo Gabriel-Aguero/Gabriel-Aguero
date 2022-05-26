@@ -26,7 +26,7 @@
 
 
 
-<h3> 🌟 Actualmente me encuentro aprendiendo 🌟</h3> 
+<h3> 🌟 I' m currently learning 🌟</h3> 
 
 ``` JavasCript
   Gabriel Aguero = {  
