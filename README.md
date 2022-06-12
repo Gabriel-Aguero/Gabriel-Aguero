@@ -15,17 +15,20 @@
 <h3> 🌟 Skills 🌟</h3>
  
 ``` JavasCript
-  Gabriel Aguero = {  
-  code: [HTML, CSS3, SASS, BOOTSTRAP, JAVASCRIPT]
-  Database: [MySql, SQLSERVER, MONGODB]
-  Mobile-Android: [JAVA]
+  Gabriel Aguero = { HTML, CSS3, SASS, BOOTSTRAP, JAVASCRIPT, Material UI, Java } 
+  
+  Database: [MySql, SQLSERVER, MONGODB],  Mobile-Android: [JAVA]
 }
 ```
+[![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+[![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+[![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#) 
+[![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#) 
+[![MaterialUI](https://img.shields.io/badge/Material.UI-1572B6?style=for-the-badge&logo=materialui&logoColor=white&labelColor=101010)](#)
+[![Java](https://img.shields.io/badge/Java-1572B6?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
 
-
-
-
-
+  
 <h3> 🌟 I' m currently learning 🌟</h3> 
 
 ``` JavasCript
@@ -35,20 +38,6 @@
   Mobile-Android: [KOTLIN]
 }
 ```
-<!--
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  un Proyecto de Android
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+ [![ReactJs](https://img.shields.io/badge/React.Js-1572B6?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+ [![Node.js](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)  
+  
