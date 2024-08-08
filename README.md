@@ -1,5 +1,5 @@
 <h3>🙋‍♂️ Hi there, my name is Gabriel Aguero <h3> 
-<img alt="Static Badge" src="https://github.com/Gabriel-Aguero/Gabriel-Aguero/blob/main/banner.png">
+<img alt="Static Badge" src="https://github.com/Gabriel-Aguero/Gabriel-Aguero/blob/main/Banner%20github.png">
 
 <h3> 👋 Hey, There </h3>  
 
