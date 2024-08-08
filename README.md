@@ -32,19 +32,10 @@
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
   <img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=for-the-badge&logo=vite&logoColor=white&logoSize=auto&label=VITE&labelColor=%23646CFF&color=%23646CFF&cacheSeconds=3600">
 </a>
-
-
-
-
-
-
-
-
-
 <hr/>
 <h3> 🌟 Stacks 🌟</h3> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/Gabriel-Aguero/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aguero&layout=compact&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Gabriel-Aguero/github-readme-stats#gh-dark-mode-only">
